@@ -1,3 +1,5 @@
 # Profiles REST API
 
-Profiles REST API course code
+A REST API built from scratch, using Django, Django REST Framework, Python, Vagrant and VirtualBox. 
+
+
